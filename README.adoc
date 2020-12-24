@@ -1,0 +1,81 @@
+= genda
+
+In Deutschland wird immer mehr versucht genderneutral zu kommunizieren.
+Den Ansatz finde ich auch grundsätzlich gut da die Sprache dadurch klarer wird.
+Die verbreiteten Lösungen empfinde ich aber als mangelhaft.
+Lösungsansätze wie Gendersternchen, Binnen-I und Gender-Gap sind meiner Meinung
+einfach zu bürokratisch und lang.
+Auch werde ich nicht warm mit Ansätzen die versuchen 'geschickt' zu gendern und
+aus 'Architekten' ein 'Architekturschaffende' machen wollen.
+
+Meiner Meinung nach sollte die genderneutrale Form auch die attraktivste in der
+Verwendung sein.
+Daher stelle ich hiermit einen weiteren Ansatz vor der es erlaubt genderneutral
+zu kommunizieren.
+
+== A für alle
+
+Ein großteil der Genderbezogenen Wörter im Deutschen endet mit 'er'.
+Dies würde ich einfach als die maskuline Variante eines Begriffes betrachten.
+Als genderneutrale Variante würde dann das 'a' als Endung verwendet werden.
+Aus Arbeiter würde somit Arbeita werden.
+Der Vorteil dieses Ansatz wäre meiner Meinung nach das sich das sprechen so gut
+wie garnicht ändern würde.
+Das R am Ende wird eh nicht richtig gerollt.
+
+== Er mit R, Sie mit I
+
+Der Ansatz mit dem 'a' lässt sich leider nicht auf alle Begriffe anwenden.
+Zwei Beispiele hiefür sind Student und Arzt.
+Hier würde ich eine maskuline Variante hinzufügen.
+Dabei versuchen wir das 'er' nachzuahmen in dem wir einfach ein 'ar' anhängen.
+Aus Arzt wird wenn man bewusst die maskuline Variante verwenden will also
+Arztar.
+Auch hier hätte es den Vorteil das die gesprochene Sprache praktisch auf anhieb
+genderneutral wäre.
+
+Die Regeln lassen sich auch einfach auf Sonderfälle wie Kommissar übertragen.
+Wobei man hier beim Plural etwas Fantasie verwenden muss.
+
+== Beispiele
+
+Hier noch eine Übersicht mit allen möglichen Beispielen.
+
+|===
+| * | maskulin | feminim
+| der Archäologe / die Archäologen
+| der Archäologar / die Archälogare
+| die Archäologin / die Archäologinen
+
+| der Arzt / die Ärzte
+| der Arztar / die Arztare
+| die Ärztin / die Ärztinnen
+
+| der Chauffeu / die Chauffeue
+| der Chauffeur / die Chauffeure
+| die Chauffeurin / die Chauffeurinnen
+
+| der Fotograf / die Fotografen
+| der Fotografar / die Fotografare
+| die Fotografin / die Fotografinnen
+
+| der Kommissa / die Kommisalle
+| der Kommissar / die Kommissare
+| die Kommissarin / die Kommissarinnen
+
+| der Mitarbeita / die Mitarbeita
+| der Mitarbeiter / die Mitarbeiter
+| die Mitarbeiterin / die Mitarbeiterinnen
+
+| der Student / die Studenten
+| der Studentar / die Studentare
+| die Studentin / die Studentinnen
+
+| der Veteran / die Veteranen
+| der Veteranar / die Veteranare
+| die Veteranin / die Veteraninnnen
+
+| der Veterina / die Veterinalle
+| der Veterinär / die Veterinäre
+| die Veterinärin / die Veterinärinen
+|===
