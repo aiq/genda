@@ -42,7 +42,7 @@ Wobei man hier beim Plural etwas Fantasie verwenden muss.
 Hier noch eine Übersicht mit allen möglichen Beispielen.
 
 |===
-| * | maskulin | feminim
+| * | maskulin | feminin
 | der Archäologe / die Archäologen
 | der Archäologar / die Archälogare
 | die Archäologin / die Archäologinen
@@ -79,3 +79,6 @@ Hier noch eine Übersicht mit allen möglichen Beispielen.
 | der Veterinär / die Veterinäre
 | die Veterinärin / die Veterinärinen
 |===
+
+Bin persönlich noch nicht mit allen Varianten 100% zufrieden.
+Bei Wörtern die mit 'eur', 'ar' und 'är' enden bin ich daher für bessere Vorschläge dankbar.
