@@ -43,6 +43,10 @@ Hier noch eine Übersicht mit allen möglichen Beispielen.
 
 |===
 | * | maskulin | feminin
+| der Arbeita / die Arbeita
+| der Arbeiter / die Arbeiter
+| die Arbeiterin / die Arbeiterinnen
+
 | der Archäologe / die Archäologen
 | der Archäologar / die Archälogare
 | die Archäologin / die Archäologinen
